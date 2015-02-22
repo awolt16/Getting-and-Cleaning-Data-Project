@@ -2,5 +2,5 @@ One of the most exciting areas in all of data science right now is wearable comp
 
 The R script called run_analysis.R does the following: merges the training and the test data sets to create one data set; extracts only the measurements on the mean and standard deviation for each measurement; uses descriptive activity names to name the activities in the data set (such as walking or standing); appropriately labels the data set with descriptive variable names (such as frequency or acceleration); and from the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-The explanation of the R script run_analysis.R is included in the CodeBook.md. 
+The explanation of the R script TidyData.txt is included in the CodeBook.md. 
  
